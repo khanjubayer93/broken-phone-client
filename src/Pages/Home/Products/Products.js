@@ -6,7 +6,7 @@ const Products = () => {
     const [products, setProducts] = useState([]);
 
     useEffect(() => {
-        fetch('brokenPhone.json')
+        fetch('http://localhost:5000/phones')
             .then(res => res.json())
             .then(data => {
                 console.log(data)
