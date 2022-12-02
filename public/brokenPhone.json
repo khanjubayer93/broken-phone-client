@@ -1,0 +1,56 @@
+[
+    {
+        "_id": 1,
+        "name": "Samsung Galaxy Z Flip4",
+        "image": "https://cutt.ly/F1EQ6CL",
+        "originalPrice": 650,
+        "resalePrice": 300,
+        "usedTime": "8 month",
+        "location": "Uttara"
+    },
+    {
+        "_id": 2,
+        "name": "iPhone 13",
+        "image": "https://cutt.ly/j1ERkgL",
+        "originalPrice": 700,
+        "resalePrice": 400,
+        "usedTime": "6 month",
+        "location": "Uttara"
+    },
+    {
+        "_id": 3,
+        "name": "Sony Xperia Pro",
+        "image": "https://cutt.ly/v1EUUHT",
+        "originalPrice": 900,
+        "resalePrice": 500,
+        "usedTime": "7 month",
+        "location": "Uttara"
+    },
+    {
+        "_id": 4,
+        "name": "Xiaomi note 7",
+        "image": "https://cutt.ly/51EIpyI",
+        "originalPrice": 200,
+        "resalePrice": 120,
+        "usedTime": "3 month",
+        "location": "Mirpur"
+    },
+    {
+        "_id": 5,
+        "name": "OnePlus 10T",
+        "image": "https://cutt.ly/l1EPxQA",
+        "originalPrice": 450,
+        "resalePrice": 250,
+        "usedTime": "6 month",
+        "location": "Mirpur"
+    },
+    {
+        "_id": 6,
+        "name": "Samsung Galaxy S22",
+        "image": "https://cutt.ly/91EAt1K",
+        "originalPrice": 800,
+        "resalePrice": 450,
+        "usedTime": "9 month",
+        "location": "Mirpur"
+    }
+]
